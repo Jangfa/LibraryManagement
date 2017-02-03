@@ -1,0 +1,14 @@
+1. Before doing all stuff one improtant thing is check your database, because if there is any existing database named "project" found that will be permanantly deleted so if you have please backup your database information first,
+2. Copy all files in your local directory(server install) folder and open that using browser
+3. You are ready to go
+
+
+
+
+
+Helpful for testing
+If you want to check or run with some existing record you can import that by deleting all tables form project database and import project.sql files from record.zip file, and copy and replace members_image folder in the same directory, (where you put all those required files) 
+
+Sorry for unresponsive view :)
+
+
